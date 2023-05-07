@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/reabilitation/static/css/main.78c35093.css",
-    "main.js": "/reabilitation/static/js/main.60178ef4.js",
+    "main.css": "/reabilitation/static/css/main.2e9ab2b1.css",
+    "main.js": "/reabilitation/static/js/main.e99e7362.js",
     "static/js/787.70dcdadb.chunk.js": "/reabilitation/static/js/787.70dcdadb.chunk.js",
     "static/media/image.png": "/reabilitation/static/media/image.755d4e7087469a394796.png",
     "static/media/Group 2.png": "/reabilitation/static/media/Group 2.2016c95c5b93776acd9d.png",
@@ -16,12 +16,12 @@
     "static/media/s4.png": "/reabilitation/static/media/s4.f9c4cda77d911fe61c1a.png",
     "index.html": "/reabilitation/index.html",
     "static/media/getFetch.cjs": "/reabilitation/static/media/getFetch.40f37ddea2378391108f.cjs",
-    "main.78c35093.css.map": "/reabilitation/static/css/main.78c35093.css.map",
-    "main.60178ef4.js.map": "/reabilitation/static/js/main.60178ef4.js.map",
+    "main.2e9ab2b1.css.map": "/reabilitation/static/css/main.2e9ab2b1.css.map",
+    "main.e99e7362.js.map": "/reabilitation/static/js/main.e99e7362.js.map",
     "787.70dcdadb.chunk.js.map": "/reabilitation/static/js/787.70dcdadb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.78c35093.css",
-    "static/js/main.60178ef4.js"
+    "static/css/main.2e9ab2b1.css",
+    "static/js/main.e99e7362.js"
   ]
 }
