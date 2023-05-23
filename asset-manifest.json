@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/reabilitation/static/css/main.d4caa610.css",
-    "main.js": "/reabilitation/static/js/main.ced87ce4.js",
+    "main.css": "/reabilitation/static/css/main.b79431c4.css",
+    "main.js": "/reabilitation/static/js/main.0069de5e.js",
     "static/js/787.70dcdadb.chunk.js": "/reabilitation/static/js/787.70dcdadb.chunk.js",
+    "static/media/e.jpg": "/reabilitation/static/media/e.92d22af9f239dc104867.jpg",
     "static/media/image.png": "/reabilitation/static/media/image.755d4e7087469a394796.png",
     "static/media/flag.png": "/reabilitation/static/media/flag.2e9b2634fc6d083a97af.png",
     "static/media/Group 2.png": "/reabilitation/static/media/Group 2.2016c95c5b93776acd9d.png",
@@ -16,12 +17,12 @@
     "static/media/s4.png": "/reabilitation/static/media/s4.f9c4cda77d911fe61c1a.png",
     "index.html": "/reabilitation/index.html",
     "static/media/getFetch.cjs": "/reabilitation/static/media/getFetch.40f37ddea2378391108f.cjs",
-    "main.d4caa610.css.map": "/reabilitation/static/css/main.d4caa610.css.map",
-    "main.ced87ce4.js.map": "/reabilitation/static/js/main.ced87ce4.js.map",
+    "main.b79431c4.css.map": "/reabilitation/static/css/main.b79431c4.css.map",
+    "main.0069de5e.js.map": "/reabilitation/static/js/main.0069de5e.js.map",
     "787.70dcdadb.chunk.js.map": "/reabilitation/static/js/787.70dcdadb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d4caa610.css",
-    "static/js/main.ced87ce4.js"
+    "static/css/main.b79431c4.css",
+    "static/js/main.0069de5e.js"
   ]
 }
