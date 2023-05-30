@@ -1,28 +1,33 @@
 {
   "files": {
-    "main.css": "/reabilitation/static/css/main.cf549340.css",
-    "main.js": "/reabilitation/static/js/main.b9b0b103.js",
+    "main.css": "/reabilitation/static/css/main.387a3af8.css",
+    "main.js": "/reabilitation/static/js/main.47e87d1e.js",
     "static/js/787.70dcdadb.chunk.js": "/reabilitation/static/js/787.70dcdadb.chunk.js",
     "static/media/e.jpg": "/reabilitation/static/media/e.92d22af9f239dc104867.jpg",
     "static/media/image.png": "/reabilitation/static/media/image.755d4e7087469a394796.png",
     "static/media/flag.png": "/reabilitation/static/media/flag.2e9b2634fc6d083a97af.png",
     "static/media/Group 2.png": "/reabilitation/static/media/Group 2.2016c95c5b93776acd9d.png",
     "static/media/logo.png": "/reabilitation/static/media/logo.d2c784e800937030d56b.png",
+    "static/media/1.jpg": "/reabilitation/static/media/1.6c3c229e525e698f1cea.jpg",
     "static/media/doctor.jpg": "/reabilitation/static/media/doctor.0d57f81db0929a5cb548.jpg",
+    "static/media/2.jpg": "/reabilitation/static/media/2.0603c3483558831160be.jpg",
     "static/media/jpg": "/reabilitation/static/media/60f20d1757f08814.c4faf88f237f4efc3ada.jpg",
     "static/media/s3.png": "/reabilitation/static/media/s3.889fadd46881cc23421c.png",
     "static/media/s1.png": "/reabilitation/static/media/s1.ac56c0f45e0ff64eb0a5.png",
+    "static/media/4.jpg": "/reabilitation/static/media/4.7523dcbf80efce861c5d.jpg",
     "static/media/heart.png": "/reabilitation/static/media/heart.d7a607261ce8ea7df19a.png",
     "static/media/s2.png": "/reabilitation/static/media/s2.fb221185e2e8de496935.png",
     "static/media/s4.png": "/reabilitation/static/media/s4.f9c4cda77d911fe61c1a.png",
+    "static/media/3.jpg": "/reabilitation/static/media/3.d075df962c9876bdda68.jpg",
+    "static/media/5.jpg": "/reabilitation/static/media/5.7a96c580672837edfbe5.jpg",
     "index.html": "/reabilitation/index.html",
     "static/media/getFetch.cjs": "/reabilitation/static/media/getFetch.40f37ddea2378391108f.cjs",
-    "main.cf549340.css.map": "/reabilitation/static/css/main.cf549340.css.map",
-    "main.b9b0b103.js.map": "/reabilitation/static/js/main.b9b0b103.js.map",
+    "main.387a3af8.css.map": "/reabilitation/static/css/main.387a3af8.css.map",
+    "main.47e87d1e.js.map": "/reabilitation/static/js/main.47e87d1e.js.map",
     "787.70dcdadb.chunk.js.map": "/reabilitation/static/js/787.70dcdadb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cf549340.css",
-    "static/js/main.b9b0b103.js"
+    "static/css/main.387a3af8.css",
+    "static/js/main.47e87d1e.js"
   ]
 }
