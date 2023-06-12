@@ -1,34 +1,37 @@
 {
   "files": {
-    "main.css": "/reabilitation/static/css/main.010c1f40.css",
-    "main.js": "/reabilitation/static/js/main.ff263948.js",
+    "main.css": "/reabilitation/static/css/main.3624e8c5.css",
+    "main.js": "/reabilitation/static/js/main.5a4f48c7.js",
     "static/js/787.70dcdadb.chunk.js": "/reabilitation/static/js/787.70dcdadb.chunk.js",
     "static/media/2.png": "/reabilitation/static/media/2.767a3fcb22f3f387fbdd.png",
     "static/media/4.png": "/reabilitation/static/media/4.c276eff5d510a20e5f9e.png",
+    "static/media/main2.png": "/reabilitation/static/media/main2.cc40210de505c7d43ac0.png",
     "static/media/9.png": "/reabilitation/static/media/9.2aacb6b029f27c3dc836.png",
     "static/media/1.png": "/reabilitation/static/media/1.f6da240617f91eb2d774.png",
+    "static/media/main3.png": "/reabilitation/static/media/main3.38f0f8b4a188a5b6bf1f.png",
+    "static/media/main1.png": "/reabilitation/static/media/main1.fd0e74b0aca318cac818.png",
+    "static/media/Group 1 (2).png": "/reabilitation/static/media/Group 1 (2).0c0ec56eeb760dfe9d7f.png",
     "static/media/Group 2.png": "/reabilitation/static/media/Group 2.2016c95c5b93776acd9d.png",
-    "static/media/Group 22.png": "/reabilitation/static/media/Group 22.9b84ac72e71ed9aa93cb.png",
     "static/media/3.png": "/reabilitation/static/media/3.45c86561766063235a2e.png",
     "static/media/mac.png": "/reabilitation/static/media/mac.39293f46fa277a7d8b86.png",
+    "static/media/logo.png": "/reabilitation/static/media/logo.d2c784e800937030d56b.png",
     "static/media/5.png": "/reabilitation/static/media/5.e052de4ac2e9cb93cd45.png",
-    "static/media/logonew.png": "/reabilitation/static/media/logonew.4d9fac6e5d53a9481bac.png",
     "static/media/7.png": "/reabilitation/static/media/7.e4d242dbae183cb88e8c.png",
+    "static/media/Pattern (2).png": "/reabilitation/static/media/Pattern (2).f79e3d48ff8bef003db9.png",
     "static/media/jpg": "/reabilitation/static/media/60f20d1757f08814.c4faf88f237f4efc3ada.jpg",
     "static/media/s3.png": "/reabilitation/static/media/s3.889fadd46881cc23421c.png",
     "static/media/s1.png": "/reabilitation/static/media/s1.ac56c0f45e0ff64eb0a5.png",
-    "static/media/undraw_medicine_b-1-ol.svg": "/reabilitation/static/media/undraw_medicine_b-1-ol.f4df9b2fc44e20b13561a16f4e877100.svg",
     "static/media/heart.png": "/reabilitation/static/media/heart.d7a607261ce8ea7df19a.png",
     "static/media/s2.png": "/reabilitation/static/media/s2.fb221185e2e8de496935.png",
     "static/media/s4.png": "/reabilitation/static/media/s4.f9c4cda77d911fe61c1a.png",
     "index.html": "/reabilitation/index.html",
     "static/media/getFetch.cjs": "/reabilitation/static/media/getFetch.40f37ddea2378391108f.cjs",
-    "main.010c1f40.css.map": "/reabilitation/static/css/main.010c1f40.css.map",
-    "main.ff263948.js.map": "/reabilitation/static/js/main.ff263948.js.map",
+    "main.3624e8c5.css.map": "/reabilitation/static/css/main.3624e8c5.css.map",
+    "main.5a4f48c7.js.map": "/reabilitation/static/js/main.5a4f48c7.js.map",
     "787.70dcdadb.chunk.js.map": "/reabilitation/static/js/787.70dcdadb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.010c1f40.css",
-    "static/js/main.ff263948.js"
+    "static/css/main.3624e8c5.css",
+    "static/js/main.5a4f48c7.js"
   ]
 }
