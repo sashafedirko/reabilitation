@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/reabilitation/static/css/main.fc9bb988.css",
+    "main.css": "/reabilitation/static/css/main.f4406736.css",
     "main.js": "/reabilitation/static/js/main.d33bba31.js",
     "static/js/787.70dcdadb.chunk.js": "/reabilitation/static/js/787.70dcdadb.chunk.js",
     "static/media/2.png": "/reabilitation/static/media/2.9a6b397bf294b8c09cb5.png",
@@ -21,12 +21,12 @@
     "static/media/PBRIDGE.png": "/reabilitation/static/media/PBRIDGE.df854571d67649f339ae.png",
     "index.html": "/reabilitation/index.html",
     "static/media/getFetch.cjs": "/reabilitation/static/media/getFetch.40f37ddea2378391108f.cjs",
-    "main.fc9bb988.css.map": "/reabilitation/static/css/main.fc9bb988.css.map",
+    "main.f4406736.css.map": "/reabilitation/static/css/main.f4406736.css.map",
     "main.d33bba31.js.map": "/reabilitation/static/js/main.d33bba31.js.map",
     "787.70dcdadb.chunk.js.map": "/reabilitation/static/js/787.70dcdadb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc9bb988.css",
+    "static/css/main.f4406736.css",
     "static/js/main.d33bba31.js"
   ]
 }
